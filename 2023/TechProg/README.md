@@ -6,7 +6,7 @@
 * [GoogleTest](https://github.com/VladislavHacker/MiptExamples/tree/main/2023/TechProg/CMakeGTest)
 
 ## Полезные ссылки
-* [Не боимся гуглить](https://ya.ru/)
+* [Не боимся гуглить](https://google.com/)
 * [Не боимся гуглить на английском](https://www.google.com)
 * [CMake Docs](https://cmake.org/cmake/help/latest/index.html)
 * [GoogleTest Docs](https://google.github.io/googletest/)
